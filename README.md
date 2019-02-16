@@ -7,3 +7,9 @@
 [![License](https://poser.pugx.org/stevebauman/maintenance/license.svg)](https://packagist.org/packages/stevebauman/maintenance)
 
 A CMMS built using [Orchestra Platform](http://orchestraplatform.com/) and [Laravel](http://laravel.com).
+
+## 🚨 Abandoned 🚨
+
+This project will no longer receive updates. Development has been cancelled.
+
+If you would like to be a maintainer of this package, please contact me at steven_bauman@outlook.com, or create an issue.
